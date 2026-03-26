@@ -3,14 +3,14 @@ Chinook Database — DQL Practice
 SQL queries practicing data retrieval on the Chinook database using 3 tables: Customer, Invoice, and InvoiceLine.
 
 tables used
-
+_______________________________________________________________________________________________
 Customer — customer info (name, country, email)
 Invoice — invoice records linked to customers
 InvoiceLine — line items for each invoice (track, quantity, price)
 
 
 what's covered
-
+_______________________________________________________________________________________________
 basic SELECT queries
 filtering with WHERE
 joining tables with JOIN
